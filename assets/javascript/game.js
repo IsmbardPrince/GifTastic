@@ -53,7 +53,7 @@ function showGifs(srchTerm) {
 		// clear any existing gifs
 		$("#gifs1").empty();
 		$("#gifs2").empty();
-		$("#gifs2").empty();
+		$("#gifs3").empty();
 		$("#gifs4").empty();
 		// iterate through the data for the 10 returned gifs, loading it into the app html
 		for (var i = 0; i < 10; i++) {
