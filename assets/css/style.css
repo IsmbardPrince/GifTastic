@@ -1,0 +1,46 @@
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+h1 {
+	display: inline-block;
+}
+
+.myContainer {
+	padding-left: 3%;
+	padding-right: 3%;
+}
+
+#rowTitle {
+	font-size: 20px;
+}
+
+#areaGif {
+	width: 70%;
+	position: absolute;
+	left: 0;
+}
+
+#areaForm {
+	width: 30%;
+	position: absolute;
+	right: 0;
+}
+
+.btnSearch {
+	margin-left: 2px;
+	margin-right: 2px;
+	margin-top: 4px;
+}
+
+.cellGif {
+	text-align: center;
+}
+
+.imgGif {
+	width: 200px;
+}
+
+#addButton {
+}
